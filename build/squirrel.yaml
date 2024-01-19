@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.8.5
   timestamps:
     squirrel: 1675621991
-    squirrel.custom: 1704792202
+    squirrel.custom: 1705652909
 app_options:
   com.1password.1password:
     ascii_mode: true
@@ -411,8 +411,8 @@ show_notifications_when: appropriate
 style:
   border_height: 0
   border_width: 0
-  color_scheme: mac_light
-  color_scheme_dark: mac_dark
+  color_scheme: wechat_light
+  color_scheme_dark: wechat_dark
   comment_font_point: 18
   corner_radius: 10
   font_face: "Lucida Grande"
